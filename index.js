@@ -1,1 +1,2 @@
-console.log("test");
+const name = rendy;
+console.log(name);
